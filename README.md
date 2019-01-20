@@ -1,1 +1,1 @@
-# udacity_ml_projects
+# My Udacity Machine Learning Nanodegree Project Submissions
